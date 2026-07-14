@@ -500,5 +500,5 @@ Para solicitar información adicional, coordinar la réplica del código o revis
 ```text
 proyectomercoia@gmail.com
 ```
-<img width="1284" height="816" alt="image" src="https://github.com/user-attachments/assets/5a02a2bc-e2c9-49c4-ac49-851f2ba8ba60" />
+<img width="428" height="272" alt="image" src="https://github.com/user-attachments/assets/5a02a2bc-e2c9-49c4-ac49-851f2ba8ba60" />
 
