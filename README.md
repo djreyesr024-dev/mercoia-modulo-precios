@@ -473,15 +473,7 @@ La versión actual presenta algunas limitaciones identificadas durante el desarr
 
 Los principales pasos pendientes son:
 
-- completar la documentación del ambiente de ejecución;
-- agregar un archivo `.env.example`;
-- revisar y depurar los archivos de referencia ubicados en `src/`;
-- documentar la migración desde Evolution API hacia Meta Cloud API;
-- validar el flujo en un ambiente estable;
-- mejorar el control de concurrencia;
-- definir si se almacenarán históricos de precios en una base de datos propia;
-- ampliar las pruebas con más productos y fechas;
-- consolidar evidencias de funcionamiento del módulo.
+PENDIENTE...
 
 ---
 
